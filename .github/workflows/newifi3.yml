@@ -1,4 +1,4 @@
-name: newifi3
+name: newifi3-openwrt
 
 on:
   release:
